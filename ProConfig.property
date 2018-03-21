@@ -1,0 +1,15 @@
+apiName=td-spm-api
+apiHandlerClassPath=com.td.spm.api
+
+programName=td-spm-program
+programApiImpl=com.td.spm.program.api.impl
+programRepository=com.td.spm.repository
+programService=com.td.spm.service
+programServiceImpl=com.td.spm.service.impl
+programMapper=mapper
+programMapperNamespace=com.td.spm.mapper
+
+restName=td-spm-rest
+restController=com.td.spm.rest.web.controller.rest
+
+
